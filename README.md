@@ -4,9 +4,7 @@ This repository provides a **MoveIt 2 configuration and ROS 2 workspace** for co
 
 ---
 
-<p align="center">
-  <img src="images/moveit.webm" alt="Unitree G1 Right Arm MoveIt Demo" width="700"/>
-</p>
+![Moveit Rviz](images/moveit.gif)
 
 ## Features
 
