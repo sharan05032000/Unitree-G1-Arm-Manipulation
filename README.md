@@ -122,7 +122,7 @@ source install/setup.bash
 ## Extending the Setup
 
 - The current configuration supports only the **right arm**.
-- You can generate similar MoveIt configurations for other arms using **MoveIt Setup Assistant**.
+- You can generate similar MoveIt configurations for other arm using **MoveIt Setup Assistant**.
 - Update your URDF/Xacro to include additional joints, sensors, or grippers as needed.
 
 ---
