@@ -153,4 +153,4 @@ g1_ws/
 
 - [ROS 2 Humble Documentation](https://docs.ros.org/en/humble/index.html)
 - [MoveIt 2 Documentation](https://moveit.ros.org/)
-- [ros2_control Overview](https://ros-controls.github.io/control.ros.org/)
+
