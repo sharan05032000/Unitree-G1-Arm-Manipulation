@@ -1,0 +1,17 @@
+# Default initial positions for g1_29dof_with_hand's ros2_control fake system
+
+initial_positions:
+  right_elbow_joint: 0
+  right_hand_index_0_joint: 0
+  right_hand_index_1_joint: 0
+  right_hand_middle_0_joint: 0
+  right_hand_middle_1_joint: 0
+  right_hand_thumb_0_joint: 0
+  right_hand_thumb_1_joint: 0
+  right_hand_thumb_2_joint: 0
+  right_shoulder_pitch_joint: 0
+  right_shoulder_roll_joint: 0
+  right_shoulder_yaw_joint: 0
+  right_wrist_pitch_joint: 0
+  right_wrist_roll_joint: 0
+  right_wrist_yaw_joint: 0

@@ -1,0 +1,25 @@
+moveit_setup_assistant_config:
+  urdf:
+    package: g1_description
+    relative_path: urdf/g1_29dof_with_hand.urdf
+  srdf:
+    relative_path: config/g1_29dof_with_hand.srdf
+  package_settings:
+    author_name: sharan
+    author_email: sharan.rabinson.mohanraj@schaeffler.com
+    generated_timestamp: 1752571217
+  control_xacro:
+    command:
+      - position
+    state:
+      - position
+      - velocity
+  modified_urdf:
+    xacros:
+      - control_xacro
+  control_xacro:
+    command:
+      - position
+    state:
+      - position
+      - velocity
