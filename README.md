@@ -35,8 +35,8 @@ Before proceeding, ensure you have:
    ```
 
 2. **Clone this repository:**
-   ```bashhttps://github.com/sharan05032000/Unitree-G1-Arm-Motion.git
-   git clone 
+   ```
+   git clone https://github.com/sharan05032000/Unitree-G1-Arm-Motion.git 
    ```
 
 3. **Build the workspace:**
